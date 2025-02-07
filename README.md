@@ -1,3 +1,5 @@
+Abstract
+
 A postsecondary education is one of the most important tools a young adult can have when starting their career, especially in the United States. 
 In order to pay for such an education, prospective students often need to take out student loans which need to be paid back and an inability to pay these loans back can be detrimental to the future of graduates. 
 To this end, one of this most important choices a student faces when entering postsecondary education is what to study and where. 
